@@ -1,0 +1,15 @@
+{
+  // 这里配置无效，是为了让 VSCode 读取 alias 配置
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@/*": [
+        "src/*"
+      ]
+    }
+  },
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}

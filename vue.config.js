@@ -6,6 +6,8 @@ function resolve(dir) {
 
 module.exports = {
   outputDir: "./dist",
+  publicPath: "./",
+  productionSourceMap: false,
   devServer: {
     // 开启代理
     // proxy: "http://localhost:9091"

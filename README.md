@@ -1,5 +1,3 @@
-# yiyun-client
-
 ## Project setup
 ```
 npm install
